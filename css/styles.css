@@ -1,5 +1,5 @@
 body {
-  background-color: palevioletred  
+  background-color: palevioletred;
 }
 .starter-template {
   padding: 3rem 1.5rem;
@@ -19,16 +19,17 @@ body {
 
 }
 
-h1{
-  display: flex;
-  font-family: arial;
-  color: rgb(80, 79, 79);
-
+h1 {
+    display: flex;
+    font-family: arial;
+    color: rgb(80, 79, 79);
+    justify-content: center;
 }
-h2{
-  display: flex;
+h2 {
+    display: flex;
+    justify-content: center;
 }
-.margin-for-list{
+.margin-for-list {
   margin: 50px;
   color: #321c23
 }
