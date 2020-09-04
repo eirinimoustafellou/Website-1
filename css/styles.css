@@ -1,5 +1,4 @@
 body {
-  padding-top: 5rem;
   background-color: palevioletred  
 }
 .starter-template {
@@ -39,8 +38,9 @@ img {
     margin-right: auto;
 }
 h3{
-    color:#7d4f5e
+    color:#7d4f5
 }
-.carousel-item {
-    width: 70%;
+.custom-image{
+    height: 400px;
+    width: auto;
 }
